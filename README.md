@@ -23,7 +23,7 @@ The dataset utilized by FashionViz is sourced from Kaggle.com and comprises two 
 
 The analysis of the dataset's gender classification revealed an inherent imbalance, prompting the decision to streamline the classification task solely to the 'Men' and 'Women' categories. The dataset presented a diverse range of gender labels, including 'Men,' 'Women,' 'Unisex,' 'Boys,' and 'Girls.' Due to this disparity and to simplify the classification process, the decision was made to concentrate specifically on the binary classification of 'Men' and 'Women'.
 
-![Alt text for your image](https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png)
+![Alt text for your image]([https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png])
 
 
 This strategic choice allowed for a more focused and efficient classification approach, addressing the imbalance in the dataset and streamlining the gender classification process to enhance the model's accuracy and effectiveness in discerning between male and female fashion items.
@@ -50,7 +50,7 @@ EfficientNetB3 showcased remarkable accuracy and efficiency, making it the model
 
 In addition to the gender binary classification analysis, FashionViz delved into a multiclass classification task specifically concerning the seasonal categorization of fashion items. The 'Season' column within the dataset presented an unbalanced distribution across different seasons, with a breakdown as follows:
 
-![Alt text for your image](https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png)
+![Alt text for your image]([https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png])
 
 While encountering this imbalance in the seasonal labels, a strategic decision was made to proceed with a multiclass classification approach, considering all the seasonal categories. To address the imbalance within the dataset, the employed technique involved the use of an ImageDataGenerator to augment the data. This augmentation process involved various transformations such as rotation, width and height shifting, shearing, zooming, horizontal flipping, and fill mode adjustments to create a more balanced representation of the different seasonal categories within the dataset.
 
