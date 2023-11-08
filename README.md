@@ -51,7 +51,7 @@ EfficientNetB3 showcased remarkable accuracy and efficiency, making it the model
 
 In addition to the gender binary classification analysis, FashionViz delved into a multiclass classification task specifically concerning the seasonal categorization of fashion items. The 'Season' column within the dataset presented an unbalanced distribution across different seasons, with a breakdown as follows:
 
-![Alt text for your image]([https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png])
+![Alt text for your image](https://github.com/serbinaekaterinai/Final-Project/blob/main/Images/Screenshot%202023-11-07%20at%208.24.56%20PM.png)
 
 While encountering this imbalance in the seasonal labels, a strategic decision was made to proceed with a multiclass classification approach, considering all the seasonal categories. To address the imbalance within the dataset, the employed technique involved the use of an ImageDataGenerator to augment the data. This augmentation process involved various transformations such as rotation, width and height shifting, shearing, zooming, horizontal flipping, and fill mode adjustments to create a more balanced representation of the different seasonal categories within the dataset.
 
