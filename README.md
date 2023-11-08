@@ -23,7 +23,8 @@ The dataset utilized by FashionViz is sourced from Kaggle.com and comprises two 
 
 The analysis of the dataset's gender classification revealed an inherent imbalance, prompting the decision to streamline the classification task solely to the 'Men' and 'Women' categories. The dataset presented a diverse range of gender labels, including 'Men,' 'Women,' 'Unisex,' 'Boys,' and 'Girls.' Due to this disparity and to simplify the classification process, the decision was made to concentrate specifically on the binary classification of 'Men' and 'Women'.
 
-![Alt text for your image](https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png)
+![Alt text for your image](https://github.com/serbinaekaterinai/Final-Project/blob/main/Images/Screenshot%202023-11-07%20at%208.24.31%20PM.png)
+
 
 
 This strategic choice allowed for a more focused and efficient classification approach, addressing the imbalance in the dataset and streamlining the gender classification process to enhance the model's accuracy and effectiveness in discerning between male and female fashion items.
