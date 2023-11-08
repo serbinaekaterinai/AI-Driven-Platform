@@ -41,6 +41,8 @@ FashionViz implemented a variety of machine learning models for image classifica
 
 - **EfficientNetB3**: Among the models employed, EfficientNetB3 stood out as a top performer. The EfficientNet family's balanced scaling of network depth, width, and resolution resulted in exceptional accuracy. The model achieved approximately 98.20% accuracy on the validation dataset and consistently improved through fine-tuning, culminating in near-perfect accuracy on the test data.
 
+![Alt text for your image](https://github.com/serbinaekaterinai/Final-Project/blob/main/Images/Screenshot%202023-11-07%20at%208.58.32%20PM.png)
+
 ### Model Performance Summary
 
 In conclusion, the implementation of various machine learning models in FashionViz demonstrated their unique strengths and capabilities for image classification in the fashion industry. While all models delivered respectable results, EfficientNetB3, with hyper-tuning and its balanced scaling, emerged as the standout performer.
