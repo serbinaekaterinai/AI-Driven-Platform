@@ -1,5 +1,10 @@
 
-# FashionViz: AI-Driven Fashion Recommendation Platform
+
+
+
+# **FashionViz**: AI-Driven Fashion Recommendation Platform
+
+![Alt text for your image](https://github.com/serbinaekaterinai/AI-Driven-Platform/blob/main/Images/Screenshot%202023-11-08%20at%207.35.58%20PM.png)
 
 FashionViz is an innovative platform that integrates AI-driven fashion recommendations, immersive shopping experiences, and cutting-edge technologies such as Augmented Reality (AR) and Virtual Reality (VR) into the e-commerce landscape. This repository and documentation provide insights into the various aspects, methodologies, and technologies leveraged by FashionViz to enhance customer engagement and drive sales within the fashion retail industry.
 
