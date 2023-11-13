@@ -66,6 +66,18 @@ Furthermore, class weights were calculated based on the distribution of labels i
 
 The use of such techniques aimed to balance the representation of seasonal categories, enabling the model to learn from a more diverse and augmented dataset, ultimately enhancing its ability to classify fashion items across various seasons effectively.
 
+## Multi-Class Women's Fashion Essentials
+
+In our analysis of fashion categories, we leveraged insights from Wunderlabel.com, revealing that certain items are particularly popular among women. Handbags, Tops, Heels, and T-shirts emerged as highly sought-after categories, supported by statistical data showcasing women's frequent purchases in these areas. 
+
+This strategic decision to focus on these categories was reinforced by their balanced distribution, providing an ideal foundation for effective modeling and strategic decision-making. 
+![Alt text for your image](https://github.com/serbinaekaterinai/AI-Driven-Platform/blob/main/Images/Screenshot%202023-11-13%20at%209.07.52%20AM.png)
+
+
+Our experimentation encompassed various models, including CNN, MobileNet, and ResNet 50. Notably, The VGG16 model demonstrated exceptional performance, achieving close to 100% accuracy on both training and test sets. Impressively, this model exhibited efficiency, requiring only 8 minutes per epoch, showcasing a harmonious blend of speed and accuracy. 
+![Alt text for your image](https://github.com/serbinaekaterinai/AI-Driven-Platform/blob/main/Images/Screenshot%202023-11-13%20at%208.53.26%20AM.png)
+
+This comprehensive approach underscores our commitment to data-driven decision-making and the pursuit of optimal results in the realm of women's fashion essentials.
 ## Project Summary and Strategic Outlook
 
 FashionViz's journey involved a comprehensive exploration and utilization of machine learning models for various classification tasks within the fashion dataset. The analysis encompassed both gender and seasonal multiclass classification, with strategic decisions made to handle the inherent imbalances within the dataset. For gender classification, a shift towards a binary approach focusing solely on 'Men' and 'Women' categories allowed for a more streamlined and efficient classification process. Similarly, in the seasonal multiclass classification, despite an initial imbalance, the utilization of augmentation techniques and calculated class weights facilitated a more balanced representation of different seasonal categories. Among the models employed, EfficientNetB3 emerged as a top performer, showcasing remarkable accuracy and efficiency.
