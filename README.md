@@ -11,18 +11,20 @@ FashionViz is an innovative platform that integrates AI-driven fashion recommend
 This platform is designed to revolutionize the way customers interact with and purchase fashion products online. With the surge in online shopping and the growing potential of the global e-commerce market, FashionViz aims to provide a highly personalized and immersive shopping experience to meet the evolving demands of modern consumers.
 
 ## Industry Insights and Technological Integration in E-commerce
+FashionViz operates within a dynamic industry heavily influenced by evolving market trends and changing consumer behaviors. Globally, the sales of clothing, footwear, and accessories have showcased steady growth, notably reaching $204.9 billion in the US market in the previous year. This sector has witnessed a significant shift towards online shopping, with 27% of consumers engaging in e-commerce, and a remarkable 76% making cross-border purchases. Moreover, a growing interest among US millennials (63%) in utilizing Augmented Reality (AR) to customize clothing items showcases a trend toward immersive and personalized experiences.
 
-FashionViz operates within a dynamic industry heavily influenced by evolving market trends and changing consumer behaviors. The projected growth of B2B online sales to exceed $2.3 trillion by 2024, potentially reaching over $3.1 trillion by 2027, reflects the expanding potential of the market. With the AI-enabled eCommerce market estimated to reach $16.8 billion by 2030, boasting a robust 15.7% compound annual growth rate (CAGR), the industry demonstrates a thriving landscape for technological integration.
-
-Globally, the sales of clothing, footwear, and accessories have showcased steady growth, notably reaching $204.9 billion in the US market in the previous year. This sector has witnessed a significant shift towards online shopping, with 27% of consumers engaging in e-commerce, and a remarkable 76% making cross-border purchases. Moreover, a growing interest among US millennials (63%) in utilizing Augmented Reality (AR) to customize clothing items showcases a trend toward immersive and personalized experiences.
-
-In response to these market dynamics, FashionViz strategically integrates technologies such as Augmented Reality (AR), and AI-driven recommendations to address the challenges of enhancing customer engagement and driving sales within the highly competitive e-commerce landscape.
+In response to these market dynamics, FashionViz strategically integrates technologies such as Augmented Reality (AR) and AI-driven recommendations to address the challenges of enhancing customer engagement and driving sales within the highly competitive e-commerce landscape.
 
 This convergence of technology and consumer-driven experiences offers substantial opportunities for tech firms, retailers, and brands to enhance their market presence and engagement. FashionViz's innovative approach involves various stakeholders, including tech firms seeking innovation, fashion retailers and brands striving to enhance customer engagement and sales, as well as consumers seeking immersive and personalized shopping experiences in the e-commerce space.
+
 
 ## Data Overview
 
 The dataset utilized by FashionViz is sourced from Kaggle.com and comprises two main components: a CSV file containing mapping details for various products within the fashion dataset, and an image folder housing over 44.4k high-resolution images (2400x1600) of fashion products.
+
+## Recommendation System Development
+
+FashionViz employs advanced recommendation systems to enhance user experience. Our first task was to predict gender, followed by predicting seasons, and finally, categorizing fashion items into various categories.
 
 ## Gender Binary Classification Analysis
 
@@ -78,6 +80,7 @@ Our experimentation encompassed various models, including CNN, MobileNet, and Re
 ![Alt text for your image](https://github.com/serbinaekaterinai/AI-Driven-Platform/blob/main/Images/Screenshot%202023-11-13%20at%208.53.26%20AM.png)
 
 This comprehensive approach underscores our commitment to data-driven decision-making and the pursuit of optimal results in the realm of women's fashion essentials.
+
 ## Project Summary and Strategic Outlook
 
 FashionViz's journey involved a comprehensive exploration and utilization of machine learning models for various classification tasks within the fashion dataset. The analysis encompassed both gender and seasonal multiclass classification, with strategic decisions made to handle the inherent imbalances within the dataset. For gender classification, a shift towards a binary approach focusing solely on 'Men' and 'Women' categories allowed for a more streamlined and efficient classification process. Similarly, in the seasonal multiclass classification, despite an initial imbalance, the utilization of augmentation techniques and calculated class weights facilitated a more balanced representation of different seasonal categories. Among the models employed, EfficientNetB3 emerged as a top performer, showcasing remarkable accuracy and efficiency.
