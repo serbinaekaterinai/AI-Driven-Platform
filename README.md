@@ -91,7 +91,7 @@ Moving forward, there are several strategic recommendations and future areas of 
 
 1. **Advanced Model Development:** Explore building more complex and specialized models for fashion item classification, leveraging the success of EfficientNetB3 as a starting point to further refine and enhance model performance.
 
-2. **Augmented Reality (AR) Application:** Consider developing an AR/VR application for fashion e-commerce. This initiative could provide customers with a highly immersive shopping experience, allowing them to virtually try on products, visualize outfits, and receive personalized recommendations.
+2. **Augmented Reality (AR) Application:** Consider developing an AR application for fashion e-commerce. This initiative could provide customers with a highly immersive shopping experience, allowing them to virtually try on products, visualize outfits, and receive personalized recommendations.
 
 3. **Enhanced Data Collection:** Continuously improve and expand the dataset by collecting a more diverse range of fashion items and their attributes. This will aid in enhancing model training and accuracy.
 
