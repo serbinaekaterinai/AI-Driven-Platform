@@ -6,7 +6,7 @@
 
 ![Alt text for your image](https://github.com/serbinaekaterinai/AI-Driven-Platform/blob/main/Images/Screenshot%202023-11-08%20at%207.35.58%20PM.png)
 
-FashionViz is an innovative platform that integrates AI-driven fashion recommendations, immersive shopping experiences, and cutting-edge technologies such as Augmented Reality (AR) and Virtual Reality (VR) into the e-commerce landscape. This repository and documentation provide insights into the various aspects, methodologies, and technologies leveraged by FashionViz to enhance customer engagement and drive sales within the fashion retail industry.
+FashionViz is an innovative platform that integrates AI-driven fashion recommendations, immersive shopping experiences, and cutting-edge technologies such as Augmented Reality (AR) into the e-commerce landscape. This repository and documentation provide insights into the various aspects, methodologies, and technologies leveraged by FashionViz to enhance customer engagement and drive sales within the fashion retail industry.
 
 This platform is designed to revolutionize the way customers interact with and purchase fashion products online. With the surge in online shopping and the growing potential of the global e-commerce market, FashionViz aims to provide a highly personalized and immersive shopping experience to meet the evolving demands of modern consumers.
 
@@ -14,9 +14,9 @@ This platform is designed to revolutionize the way customers interact with and p
 
 FashionViz operates within a dynamic industry heavily influenced by evolving market trends and changing consumer behaviors. The projected growth of B2B online sales to exceed $2.3 trillion by 2024, potentially reaching over $3.1 trillion by 2027, reflects the expanding potential of the market. With the AI-enabled eCommerce market estimated to reach $16.8 billion by 2030, boasting a robust 15.7% compound annual growth rate (CAGR), the industry demonstrates a thriving landscape for technological integration.
 
-Globally, the sales of clothing, footwear, and accessories have showcased steady growth, notably reaching $204.9 billion in the US market in the previous year. This sector has witnessed a significant shift towards online shopping, with 27% of consumers engaging in e-commerce, and a remarkable 76% making cross-border purchases. Moreover, a growing interest among US millennials (63%) in utilizing Virtual Reality (VR) to customize clothing items showcases a trend toward immersive and personalized experiences.
+Globally, the sales of clothing, footwear, and accessories have showcased steady growth, notably reaching $204.9 billion in the US market in the previous year. This sector has witnessed a significant shift towards online shopping, with 27% of consumers engaging in e-commerce, and a remarkable 76% making cross-border purchases. Moreover, a growing interest among US millennials (63%) in utilizing Augmented Reality (AR) to customize clothing items showcases a trend toward immersive and personalized experiences.
 
-In response to these market dynamics, FashionViz strategically integrates technologies such as Augmented Reality (AR), Virtual Reality (VR), and AI-driven recommendations to address the challenges of enhancing customer engagement and driving sales within the highly competitive e-commerce landscape.
+In response to these market dynamics, FashionViz strategically integrates technologies such as Augmented Reality (AR), and AI-driven recommendations to address the challenges of enhancing customer engagement and driving sales within the highly competitive e-commerce landscape.
 
 This convergence of technology and consumer-driven experiences offers substantial opportunities for tech firms, retailers, and brands to enhance their market presence and engagement. FashionViz's innovative approach involves various stakeholders, including tech firms seeking innovation, fashion retailers and brands striving to enhance customer engagement and sales, as well as consumers seeking immersive and personalized shopping experiences in the e-commerce space.
 
@@ -88,7 +88,7 @@ Moving forward, there are several strategic recommendations and future areas of 
 
 1. **Advanced Model Development:** Explore building more complex and specialized models for fashion item classification, leveraging the success of EfficientNetB3 as a starting point to further refine and enhance model performance.
 
-2. **Augmented Reality/Virtual Reality (AR/VR) Application:** Consider developing an AR/VR application for fashion e-commerce. This initiative could provide customers with a highly immersive shopping experience, allowing them to virtually try on products, visualize outfits, and receive personalized recommendations.
+2. **Augmented Reality (AR) Application:** Consider developing an AR/VR application for fashion e-commerce. This initiative could provide customers with a highly immersive shopping experience, allowing them to virtually try on products, visualize outfits, and receive personalized recommendations.
 
 3. **Enhanced Data Collection:** Continuously improve and expand the dataset by collecting a more diverse range of fashion items and their attributes. This will aid in enhancing model training and accuracy.
 
